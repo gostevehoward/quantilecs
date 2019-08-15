@@ -1,0 +1,11 @@
+Package: quantilecs
+Title: Code to reproduce simulations and plots for "Sequential estimation of quantiles with applications to A/B-testing and best-arm identification"
+Version: 0.0.1
+Authors@R: person("Steve", "Howard", email = "dev@gostevehoward.com", role = c("aut", "cre"))
+Description: All code necessary to reproduce simulation results and all plots from Howard, S. R. and Ramdas, A. (2019), "Sequential estimation of quantiles with applications to A/B-testing and best-arm identification", https://arxiv.org/abs/1906.09712.
+Depends: R (>= 3.5), Rcpp, BH, confseq, dplyr, extrafont, fontcm, ggplot2,
+    gridExtra, purrr, RColorBrewer, tidyr
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+LinkingTo: Rcpp, BH, confseq
