@@ -85,7 +85,7 @@ run_paper_simulations <- function(num_replications=64, max_rounds=1e7,
     result_data
 }
 
-run_ab_simulations <- function(num_replications=100, max_rounds=1e5,
+run_ab_simulations <- function(num_replications=256, max_rounds=1e6,
                                num_threads=4, epsilon=0.025, save=FALSE) {
     run_paper_simulations(num_replications=num_replications,
                           max_rounds=max_rounds, num_threads=num_threads,
