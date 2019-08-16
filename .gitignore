@@ -6,3 +6,4 @@ RcppExports.cpp
 *.so
 quantile_bai_unittest
 *.a
+build
