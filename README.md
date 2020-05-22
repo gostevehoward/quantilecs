@@ -1,4 +1,4 @@
-This repository contains an R pacakge with all code necessary to reproduce
+This repository contains an R package with all code necessary to reproduce
 simulation results and all plots from
 
 Howard, S. R. and Ramdas, A. (2019), [Sequential estimation of quantiles with
